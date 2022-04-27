@@ -1,0 +1,6 @@
+- Animes
+- VideoJuegos
+- Programacion
+- Electronica
+- Comer
+- Dormir
